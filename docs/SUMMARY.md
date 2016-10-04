@@ -1,5 +1,6 @@
 # Summary
 
+- [Rem Adaptive](adaptive.md)
 - [Project Structure](structure.md)
 - [Build Commands](commands.md)
 - [Linter Configuration](linter.md)

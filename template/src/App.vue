@@ -46,8 +46,8 @@ body {
 
 #app {
   color: #2c3e50;
-  margin-top: -100px;
-  max-width: 600px;
+  margin-top: -100px; /*rem*/
+  max-width: 600px; /*rem*/
   font-family: Source Sans Pro, Helvetica, sans-serif;
   text-align: center;
 }
@@ -58,7 +58,7 @@ body {
 }
 
 .logo {
-  width: 100px;
-  height: 100px
+  width: 100px; /*rem*/
+  height: 100px; /*rem*/
 }
 </style>
